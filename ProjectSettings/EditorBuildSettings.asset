@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: bd4055f5255898f47bbc8478cbba38b2
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RatingMenu.unity
+    guid: 3c8af6dd8a9353148ac24fb99f945040
+  - enabled: 1
+    path: Assets/Scenes/AddNewScore.unity
+    guid: a24bbe83a237720469cf8d7190320a58
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
